@@ -1,4 +1,4 @@
-## Project-Scones
+## Project-Scones Unlimited
 
 # OVERVIEW
 This project involves building an image classification model using AWS resources such as
@@ -21,7 +21,7 @@ that are farther can help Scones Unlimited optimize their operations.
 5. Testing and evaluation
 
 # Data Preparation
-The data was prepared y extracting dataset from hosting service, transform it into a 
+The data was prepared by extracting dataset from hosting service, transform it into a 
 usable shape and format and loaded into a production system
 
 # Model Training
