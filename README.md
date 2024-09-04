@@ -1,4 +1,4 @@
-## Project-Scones Unlimited
+## Project Scones Unlimited
 
 # OVERVIEW
 This project involves building an image classification model using AWS resources such as
